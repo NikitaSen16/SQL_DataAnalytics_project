@@ -104,5 +104,6 @@ These views are designed to feed into BI tools like **Power BI** or **Tableau** 
 | 💰 **Highest Spending Customer**      | Nichole Nara ($13,294)         |
 | ⭐ **Top Revenue-Generating Product**  | Mountain-200 Black - 46       |
 
+<img width="1320" height="738" alt="Screenshot 2025-09-29 143504" src="https://github.com/user-attachments/assets/aba05004-6ade-4418-b718-1fa3a1568c6c" />
 
 
